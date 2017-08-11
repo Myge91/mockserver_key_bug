@@ -1,0 +1,19 @@
+{
+	"d": {
+		"results": [ {
+				"__metadata": {
+					"id": "http://ngd.sap.db.de:8002/sap/opu/odata/sap/ZPM_S_COCKPIT_SRV/MPGanttSet(Cycle='   7,000000000000000', GanttGuid=guid'3880239F-E928-1EE7-9F82-4461186ECAAE')",
+					"uri": "http://ngd.sap.db.de:8002/sap/opu/odata/sap/ZPM_S_COCKPIT_SRV/MPGanttSet(Cycle='   7,000000000000000', GanttGuid=guid'3880239F-E928-1EE7-9F82-4461186ECAAE')",
+					"type": "ZPM_S_COCKPIT_SRV.MPGantt"
+				},
+				"GanttGuid": "3880239F-E928-1EE7-9F82-4461186ECAAE",
+				"Cycle": "   7,000000000000000",
+				"MPResultTree": {
+					"__deferred": {
+						"uri": "http://ngd.sap.db.de:8002/sap/opu/odata/sap/ZPM_S_COCKPIT_SRV/MPGanttSet(Cycle='   7,000000000000000', GanttGuid=guid'3880239F-E928-1EE7-9F82-4461186ECAAE')/MPResultTree"
+					}
+				}
+			}
+		]
+	}
+}

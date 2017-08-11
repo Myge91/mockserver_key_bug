@@ -1,0 +1,17 @@
+{
+	"d": {
+		"results": [{
+			"__metadata": {
+				"id": "http://ngd.sap.db.de:8002/sap/opu/odata/sap/ZPM_S_COCKPIT_SRV/MPResultTreeSet(Cycle='%20%20%207,000000000000000')",
+				"uri": "http://ngd.sap.db.de:8002/sap/opu/odata/sap/ZPM_S_COCKPIT_SRV/MPResultTreeSet(Cycle='%20%20%207,000000000000000')",
+				"type": "ZPM_S_COCKPIT_SRV.MPResultTree"
+			},
+			"Cycle": "   7,000000000000000",
+			"MPGanttSet": {
+				"__deferred": {
+					"uri": "http://ngd.sap.db.de:8002/sap/opu/odata/sap/ZPM_S_COCKPIT_SRV/MPResultTreeSet(Cycle='%20%20%207,000000000000000')/MPGanttSet"
+				}
+			}
+		}]
+	}
+}

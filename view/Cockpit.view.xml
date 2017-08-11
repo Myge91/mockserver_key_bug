@@ -1,0 +1,6 @@
+<mvc:View controllerName="db_cockpit.controller.Cockpit" xmlns:html="http://www.w3.org/1999/xhtml" 
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m"
+	height="100%">
+	<Button text="Does not work" press="onClickMe" />
+</mvc:View>
